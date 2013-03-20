@@ -18,7 +18,7 @@
 		handler: function(event){
 			var args = [].slice.call( arguments, 1 ), // clone arguments array, remove original event from cloned array
 				touches = event.originalEvent.touches,
-				startX, stratY,
+				startX, startY,
 				deltaX = 0, deltaY = 0,
 				that = this;
 
