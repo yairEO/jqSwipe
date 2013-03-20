@@ -3,7 +3,7 @@
 	"title": "jqSwipe",
 	"description": "Minimal swipe special event for touch-enabled devices",
 	"keywords": ["swipe","touch","mobile","finger","event"],
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": {
 		"name": "Yair Even Or",
 		"url": "http://dropthebit.com"
