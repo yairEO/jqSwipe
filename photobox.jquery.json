@@ -1,0 +1,30 @@
+{
+	"name": "jqSwipe",
+	"title": "jqSwipe",
+	"description": "Minimal swipe special event for touch-enabled devices",
+	"keywords": ["swipe","touch","mobile","finger","event"],
+	"version": "1.0.0",
+	"author": {
+		"name": "Yair Even Or",
+		"url": "http://dropthebit.com"
+	},
+	"maintainers": [
+	{
+		"name": "Yair Even Or",
+		"email": "vsync.design@gmail.com"
+	}
+	],
+	"licenses": [
+	{
+		"type": "MIT",
+		"url": "http://opensource.org/licenses/MIT"
+	}
+	],
+	"bugs": "https://github.com/yairEO/jqSwipe/issues",
+	"homepage": "https://github.com/yairEO/jqSwipe",
+	"docs": "https://github.com/yairEO/jqSwipe",
+	"download": "https://github.com/yairEO/jqSwipe",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
