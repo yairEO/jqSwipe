@@ -1,6 +1,8 @@
 jqSwipe
 ========
 
+**Deprecated** - please use: https://github.com/yairEO/touchy
+
 Adds minimal swipe special event for touch-enabled devices.
 by minimal, I mean it just knows which direction the finger went across the screen, without caring
 about the velocity, acceleration or basicly anything else than the direction.
